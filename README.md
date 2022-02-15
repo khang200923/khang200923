@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khang200923
-- 👀 I’m interested in math and incremental games!
+- 👀 I’m interested in math and making programming languages!
 - 🌱 I’m currently improving my coding skill
 - 😄 I’m pretty inactive.
 
